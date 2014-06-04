@@ -5,7 +5,8 @@
     "express" : "*",
     "twit" : "*",
     "coffee-script" : "*",
-    "moment": "*"
+    "moment": "*",
+    "request": "*"
   },
   "scripts": {
     "start": "coffee server.coffee"
