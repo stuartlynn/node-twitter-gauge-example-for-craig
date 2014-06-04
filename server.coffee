@@ -1,7 +1,7 @@
 Twit = require('twit');
 express = require('express')
 moment = require('moment')
-config = require("./stu_config")
+config = require("./config")
 request = require('request')
 
 app = express();
